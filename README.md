@@ -1,7 +1,7 @@
-transitions-cocos2d-iphone
+transitions-cocos2d-ios
 ==========================
 
-Examples of scene replacement transitions using CCTransition in cocos2d for iphone. This small project is made for new cocos2d developers who want know how transition is looks like with watching code of each transition. Current transitions shown on projects are:
+Examples of scene replacement transitions using CCTransition in cocos2d for iphone (v.3). This small project is made for new cocos2d developers who want know how transition is looks like with watching code of each transition. Current transitions shown on projects are:
 
 - Cross Fade With Duration Transition
 - Fade With Color Transition
@@ -11,7 +11,7 @@ Examples of scene replacement transitions using CCTransition in cocos2d for ipho
 - Reveal With Direction Transition
 
 ## Some examples of using transition to replace scene
-(These examples is based on Cocos2d v.3)
+These examples is based on Cocos2d v.3 and objective-c programming language
 
 #### Cross Fade With Duration Transition
 ```
